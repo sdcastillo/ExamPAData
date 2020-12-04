@@ -1,0 +1,41 @@
+#' Customer Phone Calls
+#'
+#' @description Data used on June 18, 2020 Exam PA
+#'
+#' @docType data
+#'
+#' @usage data("customer_phone_calls")
+#'
+#' @format data.frame, 10000 observations of 14 variables:
+#' \describe{
+#'   \item{age}{Age of the prospective customer. Integer from 17 to 98.}
+#'   \item{job}{Occupation category. Factor with 11 levels.}
+#'   \item{marital}{Marital status. Factor with levels divorced, married,
+#'         and single}
+#'   \item{housing}{Indicates whether the prospect has a housing loan. Factor
+#'         with levels yes and no.}
+#'   \item{loan}{Indicates whether the prospect has a consumer loan. Factor
+#'         with levels yes and no.}
+#'   \item{phone}{The type of phone the prospect uses. Factors with levels
+#'         cellular and landline.}
+#'   \item{month}{The month of the marketing call. Factor with 12 levels.}
+#'   \item{weekday}{The day of the week of the marketing call. Factor with five
+#'         levels.}
+#'   \item{CPI}{Consumer price index at the time of the call. Numeric from
+#'         92.20 to 94.77.}
+#'   \item{CCI}{Consumer confidence index at the time of the call. Numeric
+#'         from -50.8 to -26.9.}
+#'   \item{irate}{Short term interest rate at the tie of the call. Numeric
+#'         from 0.634 to 5.045.}
+#'   \item{employment}{Number of employees of ABC Insurance at the time of the
+#'         call. Numeric from 4964 to 5228.}
+#'   \item{purchase}{Indicator of purchase. Integer (1 for purchase, or 0 for
+#'         no purchase.)}
+#'   \item{edu_years}{Years of education. Integer from 1 to 16.}
+#' }
+#'
+#' @keywords datasets
+#'
+#'
+#'
+"customer_phone_calls"

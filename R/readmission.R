@@ -1,0 +1,37 @@
+#' Readmission
+#'
+#' @description SOA Hospital Readmissions Sample Exam, 2019.
+#'
+#' @docType data
+#'
+#' @usage data("readmission")
+#'
+#' @format data.frame, 66782 observations of 9 variables:
+#' \describe{
+#'   \item{Readmission.Status}{The target variable, it is 1 for patients that
+#'         were readmitted, 0 otherwise.}
+#'   \item{Gender}{M indicates male, F indicates female.}
+#'   \item{Race}{There are four categories: Black, Hispanic, Others, White.}
+#'   \item{ER}{The number of emergency room visits prior to the hospital stay
+#'         associated with the readmission, an integer.}
+#'   \item{DRG.Class}{Diagnostic Related Group classification. There are three
+#'         categories: MED (for medical), SURG (for surgical), UNGROUP.}
+#'   \item{LOS}{Length of hospital stay in days, an integer.}
+#'   \item{Age}{The patient's age in years, an integer. (Note that while most
+#'         Medicare recipients are age 65 or older there are circumstances in
+#'         which whose under 65 can receive benefits.)}
+#'   \item{HCC.Riskscore}{Hierarchical Condition Category risk score. It is
+#'         designed to be an estimate of a patient's condition and prospective
+#'         costs. It is a continuous variable, rounded to three decimal places.
+#'         Higher numbers indicate greater risk.}
+#'   \item{DRG.Complication}{Complications, with five levels: MedicalMCC.CC,
+#'         MecialNoc, Other, SurgMCC.CC, SurgNoC, MCC.CC complications or
+#'         comorbidities that may be major. NoC means no complications or
+#'         comorbidities.}
+#' }
+#'
+#' @keywords datasets
+#'
+#'
+#'
+"readmission"
