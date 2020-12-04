@@ -34,7 +34,7 @@ data.frame, 10000 observations of 14 variables:
 }
 }
 \usage{
-data("customer_phone_calls")
+customer_phone_calls
 }
 \description{
 Data used on June 18, 2020 Exam PA

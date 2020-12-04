@@ -26,7 +26,7 @@ data.frame, 48842 observations of 8 variables:
 }
 }
 \usage{
-data("customer_value")
+customer_value
 }
 \description{
 Customer value data set from December 2019 PA

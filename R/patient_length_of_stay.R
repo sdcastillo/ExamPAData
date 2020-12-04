@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #'
-#' @usage data("patient_length_of_stay")
+#' @usage patient_length_of_stay
 #'
 #' @format data.frame,  10000 observations of 13 variables:
 #' \describe{

@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #'
-#' @usage data("boston")
+#' @usage boston
 #'
 #' @format data.frame, 506 observations of 14 variables:
 #' \describe{

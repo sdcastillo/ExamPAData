@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #'
-#' @usage data("customer_value")
+#' @usage customer_value
 #'
 #' @format data.frame, 48842 observations of 8 variables:
 #' \describe{

@@ -17,7 +17,7 @@ data.frame, 138 observations of 6 variables:
 }
 }
 \usage{
-data("actuary_salaries")
+actuary_salaries
 }
 \description{
 The data actuary_salaries contains the salaries of actuaries

@@ -43,7 +43,7 @@ data.frame, 23137 observations of 14 variables:
 }
 }
 \usage{
-data("june_pa")
+june_pa
 }
 \description{
 Auto crash data set from SOA June 2019 PA

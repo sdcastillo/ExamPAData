@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #'
-#' @usage data("june_pa")
+#' @usage june_pa
 #'
 #' @format data.frame, 23137 observations of 14 variables:
 #' \describe{

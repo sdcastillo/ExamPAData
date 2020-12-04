@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #'
-#' @usage data("auto_claim")
+#' @usage auto_claim
 #'
 #' @format data.frame, 10296 observations of 29 variables:
 #' \describe{

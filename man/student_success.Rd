@@ -63,7 +63,7 @@ data.frame, 585 observations of 33 variables:
 }
 }
 \usage{
-data("student_success")
+student_success
 }
 \description{
 SOA Student Success PA Sample Project, 2019.

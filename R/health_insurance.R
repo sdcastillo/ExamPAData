@@ -6,7 +6,7 @@
 #'
 #' @docType data
 #'
-#' @usage data("health_insurance")
+#' @usage health_insurance
 #'
 #' @format data.frame, 1338 observations of 7 variables:
 #' \describe{

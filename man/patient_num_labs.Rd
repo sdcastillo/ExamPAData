@@ -34,7 +34,7 @@ data.frame,  10000 observations of 14 variables:
 }
 }
 \usage{
-data("patient_num_labs")
+patient_num_labs
 }
 \description{
 Data used on June 19, 2020 Exam PA

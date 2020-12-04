@@ -5,7 +5,7 @@
 #'
 #' @docType data
 #'
-#' @usage data("actuary_salaries")
+#' @usage actuary_salaries
 #'
 #' @format data.frame, 138 observations of 6 variables:
 #' \describe{

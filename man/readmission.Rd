@@ -30,7 +30,7 @@ data.frame, 66782 observations of 9 variables:
 }
 }
 \usage{
-data("readmission")
+readmission
 }
 \description{
 SOA Hospital Readmissions Sample Exam, 2019.

@@ -46,7 +46,7 @@ data.frame, 10296 observations of 29 variables:
 }
 }
 \usage{
-data("auto_claim")
+auto_claim
 }
 \description{
 Automotive claims

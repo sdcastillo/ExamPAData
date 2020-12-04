@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #'
-#' @usage data("readmission")
+#' @usage readmission
 #'
 #' @format data.frame, 66782 observations of 9 variables:
 #' \describe{

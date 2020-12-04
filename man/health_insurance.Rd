@@ -17,7 +17,7 @@ data.frame, 1338 observations of 7 variables:
 }
 }
 \usage{
-data("health_insurance")
+health_insurance
 }
 \description{
 Health insurance claims as used in ExamPA.net’s Practice Exam.

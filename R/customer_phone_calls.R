@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #'
-#' @usage data("customer_phone_calls")
+#' @usage customer_phone_calls
 #'
 #' @format data.frame, 10000 observations of 14 variables:
 #' \describe{

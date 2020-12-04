@@ -26,7 +26,7 @@ data.frame, 506 observations of 14 variables:
 }
 }
 \usage{
-data("boston")
+boston
 }
 \description{
 Boston housing data set

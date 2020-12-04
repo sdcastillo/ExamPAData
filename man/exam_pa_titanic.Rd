@@ -22,7 +22,7 @@ data.frame, 906 observations of 11 variables:
 }
 }
 \usage{
-data("exam_pa_titanic")
+exam_pa_titanic
 }
 \description{
 Titanic passengers as used in ExamPA.net’s practice exam

@@ -42,7 +42,7 @@ data.frame,  10000 observations of 13 variables:
 }
 }
 \usage{
-data("patient_length_of_stay")
+patient_length_of_stay
 }
 \description{
 Data used on June 16, 2020 Exam PA

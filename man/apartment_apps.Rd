@@ -56,7 +56,7 @@ data.frame, 1430 observations of 41 variables:
 }
 }
 \usage{
-data("apartment_apps")
+apartment_apps
 }
 \description{
 Apartment applications as used in ExamPA.net’s Practice Exam

@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #'
-#' @usage data("exam_pa_titanic")
+#' @usage exam_pa_titanic
 #'
 #' @format data.frame, 906 observations of 11 variables:
 #' \describe{

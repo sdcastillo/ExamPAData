@@ -42,7 +42,7 @@ data.frame, 41188 observations of 21 variables:
 }
 }
 \usage{
-data("bank_loans")
+bank_loans
 }
 \description{
 Credit data from UCI Machine Learning Repository.

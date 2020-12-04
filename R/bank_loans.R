@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #'
-#' @usage data("bank_loans")
+#' @usage bank_loans
 #'
 #' @format data.frame, 41188 observations of 21 variables:
 #' \describe{
