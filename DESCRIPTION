@@ -1,12 +1,12 @@
 Package: ExamPAData
 Type: Package
-Title: Datasets for ExamPAData.net
+Title: Data sets for ExamPAData.net
 Version: 0.1.0
 Author: Sam Castillo, Guanglai Li
 Maintainer: Guanglai Li <liguanglai@gmail.com>
 Date: 2020-12-06
-Description: Contains all datasets for ExamPA.net, the comprehensive, all-in-one 
-    solution to help you pass PA.
+Description: Contains all data sets for ExamPA.net, the comprehensive, 
+    all-in-one solution to help you pass PA.
 URL: https://github.com/sdcastillo/ExamPAData
 BugReports: https://github.com/sdcastillo/ExamPAData/issues
 License: MIT + file LICENSE
