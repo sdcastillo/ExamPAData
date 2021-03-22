@@ -1,4 +1,4 @@
-#' Boston
+#' Bank Loans
 #'
 #' @description Credit data from UCI Machine Learning Repository.
 #'
