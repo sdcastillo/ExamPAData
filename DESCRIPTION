@@ -1,12 +1,15 @@
 Package: ExamPAData
 Type: Package
-Title: Data Sets for ExamPAData.net
-Version: 0.1.0
-Author: Sam Castillo, Guanglai Li
-Maintainer: Guanglai Li <liguanglai@gmail.com>
-Date: 2020-12-06
-Description: Contains all data sets for ExamPA.net, the comprehensive, 
-    all-in-one solution to help you pass PA.
+Title: Data Sets for Predictive Analytics Exam
+Version: 0.2.0
+Authors@R: c(
+    person("Guanglai", "Li", email = "liguanglai@gmail.com",
+            role = c("aut", "cre")),
+    person("Sam", "Castillo", role = "aut")
+    )
+Date: 2021-01-12
+Description: Contains all data sets for Exam PA: Predictive Analytics at 
+    <https://exampa.net/>.
 URL: https://github.com/sdcastillo/ExamPAData
 BugReports: https://github.com/sdcastillo/ExamPAData/issues
 License: MIT + file LICENSE
