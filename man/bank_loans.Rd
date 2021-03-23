@@ -3,7 +3,7 @@
 \docType{data}
 \name{bank_loans}
 \alias{bank_loans}
-\title{Boston}
+\title{Bank Loans}
 \format{
 data.frame, 41188 observations of 21 variables:
 \describe{
