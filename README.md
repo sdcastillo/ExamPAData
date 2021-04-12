@@ -8,8 +8,6 @@ Having to retake PA adds another 6 months to this journey.
 
 ## Download the data
 
-For your convenience, all data in our free Study Guide, including data from prior exams and sample solutions, has been put into a library called `ExamPAData`.  To access, simply run the below lines of code to download this data.
-
 For your convenience, all data in this book, including data from prior exams and sample solutions, has been put into a library called `ExamPAData` which is available on CRAN.
 
 ```{r eval = F}
