@@ -1,16 +1,19 @@
 Package: ExamPAData
 Type: Package
-Title: Datasets for ExamPAData.net
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: The R library for ExamPA.net, the comprehensive, all-in-one 
-    solution to help you pass PA.  Includes practice exams and quizzes and video 
-    tutorials.  Don’t let PA stop you from earning your ASA! 5 years.  That’s 
-    the average time required to pass all the exams to get an ASA. The pass 
-    rate of PA is only 50%. And this includes people who are taking PA for a 
-    second time. Having to retake PA adds another 6 months to this journey.
-License: What license is it under?
+Title: Data Sets for Predictive Analytics Exam
+Version: 0.3.0
+Authors@R: c(
+    person("Guanglai", "Li", email = "liguanglai@gmail.com",
+            role = c("aut", "cre")),
+    person("Sam", "Castillo", role = "aut")
+    )
+Date: 2021-04-23
+Description: Contains all data sets for Exam PA: Predictive Analytics at 
+    <https://exampa.net/>.
+URL: https://github.com/sdcastillo/ExamPAData
+BugReports: https://github.com/sdcastillo/ExamPAData/issues
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Depends: R (>= 3.5.0)
 RoxygenNote: 7.1.1
