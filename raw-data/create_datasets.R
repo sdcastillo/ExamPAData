@@ -6,7 +6,17 @@ generate_docs <- function(dataset){
   }
 }
 
-# bike_sharing_demand ===================================================================
+
+# pedestrian activity 20210526 =================================================
+pedestrian_activity <- read.csv("raw-data/pedestrian_activity.csv")
+save(pedestrian_activity,
+     file = "data/pedestrian_activity.RData",
+     compress = "xz",
+     compression_level = 9)
+generate_docs(pedestrian_activity)
+
+
+# bike_sharing_demand ==========================================================
 bike_sharing_demand <- read.csv("raw-data/bike_sharing_demand.csv")
 save(bike_sharing_demand,
      file = "data/bike_sharing_demand.RData",
