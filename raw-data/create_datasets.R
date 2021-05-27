@@ -1,12 +1,29 @@
+# What to do to add a new dataset
+# - create a xxxx.RData file to be placed in /data/
+# - create a new xxxx.R file to be placed in /R/
+# - update time and version in DESCRIPTION
+
 generate_docs <- function(dataset){
-  # to generate a template used to document dataset
+  # to generate a template used to document dataset, which is copy-and-pasted to
+  # R/xxx.R files
+
   cols <- names(dataset)
   for (col in cols){
     cat("#'   \\item{", col, "}{}\n", sep = '')
   }
 }
 
-# bike_sharing_demand ===================================================================
+
+# pedestrian activity added 20210526 ===========================================
+pedestrian_activity <- read.csv("raw-data/pedestrian_activity.csv")
+save(pedestrian_activity,
+     file = "data/pedestrian_activity.RData",
+     compress = "xz",
+     compression_level = 9)
+generate_docs(pedestrian_activity)
+
+
+# bike_sharing_demand added 20210423 ===========================================
 bike_sharing_demand <- read.csv("raw-data/bike_sharing_demand.csv")
 save(bike_sharing_demand,
      file = "data/bike_sharing_demand.RData",
