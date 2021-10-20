@@ -12,7 +12,7 @@ data.frame, 4884 observations of 11 variables:
   \item{Distance}{Distance traveled in trip, in km}
   \item{Duration}{Number of nights spent on trip}
   \item{Reason}{Main reason for the trip. Vacation includes holiday, leisure, or recration. Visit includes visiting friends or relatives.}
-  \item{Age}{Age of adult survey respondent}
+  \item{Age}{Age of adult survey respondent in six age bins}
   \item{Gender}{Gender of adult survey respondent}
   \item{HHI}{Household income, in Canadian $}
   \item{Others}{Number of other persons that accompanied the respondent on the trip}
