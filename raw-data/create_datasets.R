@@ -14,6 +14,25 @@ generate_docs <- function(dataset){
 }
 
 
+# travel insurance data added 20211019 ========================================
+travel_insurance <- read.csv("raw-data/travel_insurance.csv")
+save(travel_insurance,
+     file = "data/travel_insurance.RData",
+     compress = "xz",
+     compression_level = 9)
+generate_docs(travel_insurance)
+
+
+# travel spending added 20211020 =============================================
+travel_spending <- read.csv("raw-data/travel_spending.csv")
+save(travel_spending,
+     file = "data/travel_spending.RData",
+     compress = "xz",
+     compression_level = 9)
+generate_docs(travel_spending)
+
+
+
 # pedestrian activity added 20210526 ===========================================
 pedestrian_activity <- read.csv("raw-data/pedestrian_activity.csv")
 save(pedestrian_activity,
@@ -30,6 +49,7 @@ save(bike_sharing_demand,
      compress = "xz",
      compression_level = 9)
 generate_docs(bike_sharing_demand)
+
 
 
 
