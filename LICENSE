@@ -1,2 +1,54 @@
-YEAR: 2020
-COPYRIGHT HOLDER: Sam Castillo
+MIT License
+-----------
+
+Copyright (c) 2025 Sam Castillo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights 
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell 
+copies of the Software, and to permit persons to whom the Software is 
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included 
+   in all copies or substantial portions of the Software.
+
+2. If you distribute or create derivative works based on this Software, you 
+   must include proper attribution to Sam as the creator of the original code 
+   (and data, where applicable).
+
+3. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
+   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+   DEALINGS IN THE SOFTWARE.
+
+---------------------------------------------------------------------------
+Third-Party Data Disclaimer
+---------------------------------------------------------------------------
+
+Portions of this package ("the Data") consist of or incorporate datasets 
+sourced from third parties. The original copyright and related rights to 
+those datasets belong to their respective owners, and are subject to 
+whatever licenses or terms those owners have established. Where feasible, 
+we have included references to the original sources and any applicable 
+license requirements. Sam does not claim ownership or authorship of the 
+third-party data, and does not provide any warranties or assurances 
+regarding its use.
+
+Use of the third-party data is subject to any additional or separate 
+permissions required by the original data owners. Users are solely 
+responsible for ensuring that their use of these datasets complies with 
+all applicable licenses, laws, and regulations.
+
+For data that Sam created (approximately 10% of the data in this package), 
+Sam retains all rights and licenses them under the same MIT License terms, 
+unless explicitly noted otherwise.
+
+---------------------------------------------------------------------------
+Contact
+---------------------------------------------------------------------------
+
+For questions, please contact Sam at: Sam@PredictiveInsightsAI.com
