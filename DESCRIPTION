@@ -1,12 +1,12 @@
 Package: ExamPAData
 Type: Package
 Title: Data Sets for Predictive Analytics Exam
-Version: 0.5.0
+Version: 0.5.1
 Authors@R: c(
     person("Guanglai", "Li", role = c("ctb")),
     person("Sam", "Castillo", email = "Sam@PredictiveInsightsAI.com", role = c("aut", "cre"))
 )
-Date: 2021-10-20
+Date: 2025-02-22
 Description: Contains all data sets for Exam PA: Predictive Analytics at 
     <https://exampa.net/>.
 URL: https://github.com/sdcastillo/ExamPAData
