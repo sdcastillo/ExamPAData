@@ -3,10 +3,9 @@ Type: Package
 Title: Data Sets for Predictive Analytics Exam
 Version: 0.5.0
 Authors@R: c(
-    person("Guanglai", "Li", email = "liguanglai@gmail.com",
-            role = c("aut", "cre")),
-    person("Sam", "Castillo", role = "aut")
-    )
+    person("Guanglai", "Li", role = c("ctb")),
+    person("Sam", "Castillo", email = "Sam@PredictiveInsightsAI.com", role = c("aut", "cre"))
+)
 Date: 2021-10-20
 Description: Contains all data sets for Exam PA: Predictive Analytics at 
     <https://exampa.net/>.
