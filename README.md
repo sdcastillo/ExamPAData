@@ -25,9 +25,9 @@ To get the data dictionary for a data set, use `?dataset_name` such as `?custome
 |`actuary_salaries`| DW Simpson actuarial salary data|
 |`june_pa`|Auto crash data set from SOA June 2019 PA|
 |`customer_value`| Customer value data set from December 2019 PA|
-|`exam_pa_titanic`| Titanic passengers as used in ExamPA.net's practice exam |
-|`apartment_apps`| Apartment applications as used in ExamPA.net's Practice Exam|
-|`health_insurance`| Health insurance claims as used in ExamPA.net's Practice Exam|
+|`exam_pa_titanic`| Titanic passengers as used in PredictiveInsightsAI.com's practice exam |
+|`apartment_apps`| Apartment applications as used in PredictiveInsightsAI.com's Practice Exam|
+|`health_insurance`| Health insurance claims as used in PredictiveInsightsAI.com's Practice Exam|
 |`student_success`| SOA Student Success PA Sample Project, 2019|
 |`readmission`| SOA Hospital Readmissions Sample Exam, 2019 |
 |`auto_claim`| Automotive claims |

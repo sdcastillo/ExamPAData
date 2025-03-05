@@ -1,6 +1,6 @@
 #' Health insurance
 #'
-#' @description Health insurance claims as used in ExamPA.net’s Practice Exam.
+#' @description Health insurance claims as used in PredictiveInsightsAI.com’s Practice Exam.
 #' The data set consists of prior year’s health insurance claims, along with
 #' patient demographic information, from Freedom Health.
 #'

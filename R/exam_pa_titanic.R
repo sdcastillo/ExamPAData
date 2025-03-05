@@ -1,6 +1,6 @@
 #' Exam PA Titanic
 #'
-#' @description Titanic passengers as used in ExamPA.net’s practice exam
+#' @description Titanic passengers as used in PredictiveInsightsAI.com’s practice exam
 #'
 #' @docType data
 #'

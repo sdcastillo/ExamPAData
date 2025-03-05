@@ -25,6 +25,6 @@ data.frame, 906 observations of 11 variables:
 exam_pa_titanic
 }
 \description{
-Titanic passengers as used in ExamPA.net’s practice exam
+Titanic passengers as used in PredictiveInsightsAI.com’s practice exam
 }
 \keyword{datasets}

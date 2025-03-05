@@ -59,6 +59,6 @@ data.frame, 1430 observations of 41 variables:
 apartment_apps
 }
 \description{
-Apartment applications as used in ExamPA.net’s Practice Exam
+Apartment applications as used in PredictiveInsightsAI.com’s Practice Exam
 }
 \keyword{datasets}

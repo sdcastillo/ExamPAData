@@ -20,7 +20,7 @@ data.frame, 1338 observations of 7 variables:
 health_insurance
 }
 \description{
-Health insurance claims as used in ExamPA.net’s Practice Exam.
+Health insurance claims as used in PredictiveInsightsAI.com’s Practice Exam.
 The data set consists of prior year’s health insurance claims, along with
 patient demographic information, from Freedom Health.
 }

@@ -1,6 +1,6 @@
 #' Apartment Apps
 #'
-#' @description Apartment applications as used in ExamPA.net’s Practice Exam
+#' @description Apartment applications as used in PredictiveInsightsAI.com’s Practice Exam
 #'
 #' @docType data
 #'
