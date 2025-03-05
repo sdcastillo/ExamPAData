@@ -1,7 +1,7 @@
 Package: ExamPAData
 Type: Package
 Title: Data Sets for Predictive Analytics Exam
-Version: 0.5.1
+Version: 0.5.2
 Authors@R: c(
     person("Guanglai", "Li", role = c("ctb")),
     person("Sam", "Castillo", email = "Sam@PredictiveInsightsAI.com", role = c("aut", "cre"))
